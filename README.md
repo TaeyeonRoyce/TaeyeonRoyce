@@ -17,12 +17,13 @@ This is Royce, a developer who want to spread value for worlds.
 - [세종대]-멋쟁이 사자처럼 12기 BE운영진 및 트랙리더 (2024.03 ~ )
 - 우아한테크코스 BE 5기 (2023.02. ~ 2023.11.)
 - [IT연합동아리 Yapp](https://www.yapp.co.kr) 활동.
-</br>23기 - 바로 개발 (2023.11. ~ 2024.02.)---
+</br>23기 - 바로 개발 (2023.11. ~ 2024.02.)
   </br>21기 - Thumbs-up 개발 (2022.11. ~ 2023.02.)
 - 한국 관광공사 x 카카오 주최, 2022 관광데이터 활용 공모전, **우수상 수상** (2022.07. ~ 2022.11.)
 - Unithon 9th 해커톤 BE개발 참여, **특별상 수상** (2022.09.)
 - [DnD]() 7기 BE 참여. (2022.07. ~ 2022.08.)
 - 2022 하계 Samsung S/W 알고리즘 역량강화 (2022.07 ~ 2022.08)
+- UMC 2기 백엔드 리더 참여 (2022.03 ~ 2022.06)
 
 <br/>
 <br/>
@@ -34,3 +35,5 @@ This is Royce, a developer who want to spread value for worlds.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeonroyce&theme=jolly&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeyeonroyce%2Fhit-counter&count_bg=%23C380E8&title_bg=%23B7B7B7&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
